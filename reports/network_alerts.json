@@ -1,0 +1,122 @@
+[
+    {
+        "type": "Suspicious Domain",
+        "detail": "Connection to torproject.org",
+        "timestamp": "2024-03-15 02:15:33",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Domain",
+        "detail": "Connection to hidemyass.com",
+        "timestamp": "2024-03-15 03:22:11",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Domain",
+        "detail": "Connection to nordvpn.com",
+        "timestamp": "2024-03-15 23:45:10",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Domain",
+        "detail": "Connection to anonymizer.com",
+        "timestamp": "2024-03-15 01:10:05",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Domain",
+        "detail": "Connection to protonvpn.com",
+        "timestamp": "2024-03-15 22:55:44",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Port",
+        "detail": "Traffic on port 9050 (VPN/TOR indicator)",
+        "timestamp": "2024-03-15 02:15:33",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Port",
+        "detail": "Traffic on port 1194 (VPN/TOR indicator)",
+        "timestamp": "2024-03-15 03:22:11",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Port",
+        "detail": "Traffic on port 1723 (VPN/TOR indicator)",
+        "timestamp": "2024-03-15 23:45:10",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Port",
+        "detail": "Traffic on port 9150 (VPN/TOR indicator)",
+        "timestamp": "2024-03-15 01:10:05",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Suspicious Port",
+        "detail": "Traffic on port 1194 (VPN/TOR indicator)",
+        "timestamp": "2024-03-15 22:55:44",
+        "severity": "HIGH"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 02:15",
+        "timestamp": "2024-03-15 02:15:33",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 02:18",
+        "timestamp": "2024-03-15 02:18:45",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 03:22",
+        "timestamp": "2024-03-15 03:22:11",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 23:45",
+        "timestamp": "2024-03-15 23:45:10",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 01:10",
+        "timestamp": "2024-03-15 01:10:05",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 22:55",
+        "timestamp": "2024-03-15 22:55:44",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "After Hours Activity",
+        "detail": "Network access at 08:59",
+        "timestamp": "2024-03-15 08:59:00",
+        "severity": "MEDIUM"
+    },
+    {
+        "type": "Large Data Transfer",
+        "detail": "75.00 MB sent to hidemyass.com",
+        "timestamp": "2024-03-15 03:22:11",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Large Data Transfer",
+        "detail": "100.00 MB sent to nordvpn.com",
+        "timestamp": "2024-03-15 23:45:10",
+        "severity": "HIGH"
+    },
+    {
+        "type": "Large Data Transfer",
+        "detail": "60.00 MB sent to protonvpn.com",
+        "timestamp": "2024-03-15 22:55:44",
+        "severity": "HIGH"
+    }
+]
