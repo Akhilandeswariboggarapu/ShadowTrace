@@ -1,0 +1,38 @@
+[
+    {
+        "type": "Suspicious Browser History",
+        "detail": "Visited: https://github.com/Akhilandeswariboggarapu?tab=repositories",
+        "severity": "HIGH",
+        "timestamp": "2026-05-30 16:10:36"
+    },
+    {
+        "type": "Suspicious Browser History",
+        "detail": "Visited: https://www.primevideo.com/gp/video/storefront",
+        "severity": "HIGH",
+        "timestamp": "2026-05-30 15:00:27"
+    },
+    {
+        "type": "Recovered Suspicious URL",
+        "detail": "Visited 5x: https://www.torproject.org/download",
+        "severity": "HIGH",
+        "timestamp": "2024-03-15 02:10:00"
+    },
+    {
+        "type": "Recovered Suspicious URL",
+        "detail": "Visited 3x: https://nordvpn.com/",
+        "severity": "HIGH",
+        "timestamp": "2024-03-15 01:45:00"
+    },
+    {
+        "type": "Recovered Suspicious URL",
+        "detail": "Visited 2x: https://protonvpn.com/",
+        "severity": "HIGH",
+        "timestamp": "2024-03-14 23:30:00"
+    },
+    {
+        "type": "Recovered Suspicious URL",
+        "detail": "Visited 1x: https://pastebin.com/xK92mP1",
+        "severity": "HIGH",
+        "timestamp": "2024-03-15 03:00:00"
+    }
+]
