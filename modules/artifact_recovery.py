@@ -69,7 +69,9 @@ def recover_chrome_history():
             })
 
         # Flag suspicious URLs
-        suspicious_keywords = ['tor', 'vpn', 'proxy', 'anonymous', 'hide', 'darkweb']
+        suspicious_keywords = ['torproject.org', 'nordvpn.com', 'hidemyass.com', 
+                       'protonvpn.com', 'anonymizer.com', 'darkweb', 
+                       'pastebin.com', 'tor2web.org']
         for entry in recovered:
             for keyword in suspicious_keywords:
                 if keyword in entry['url'].lower():

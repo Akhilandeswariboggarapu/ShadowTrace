@@ -1,6 +1,139 @@
 [
     {
         "browser": "Chrome",
+        "url": "file:///C:/Windows/System32/ShadowTrace/reports/ShadowTrace_Forensic_Report.pdf",
+        "title": "(anonymous)",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 21:36:59"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace/tree/main",
+        "title": "Akhilandeswariboggarapu/ShadowTrace",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 21:31:58"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace/tree/main/dashboard",
+        "title": "ShadowTrace/dashboard at main \u00b7 Akhilandeswariboggarapu/ShadowTrace",
+        "visit_count": 3,
+        "last_visited": "2026-05-30 21:31:56"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace/blob/main/dashboard/app.py",
+        "title": "ShadowTrace/dashboard/app.py at main \u00b7 Akhilandeswariboggarapu/ShadowTrace",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 21:31:49"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace",
+        "title": "Akhilandeswariboggarapu/ShadowTrace",
+        "visit_count": 9,
+        "last_visited": "2026-05-30 21:31:37"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/dashboard",
+        "title": "GitHub Dashboard",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 21:31:32"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/settings/emails",
+        "title": "Email settings",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 21:13:01"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/settings/profile",
+        "title": "Your profile",
+        "visit_count": 3,
+        "last_visited": "2026-05-30 21:12:27"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/settings/admin",
+        "title": "Account settings",
+        "visit_count": 2,
+        "last_visited": "2026-05-30 21:12:06"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/settings/appearance",
+        "title": "Appearance",
+        "visit_count": 2,
+        "last_visited": "2026-05-30 21:12:00"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://github.com/Akhilandeswariboggarapu",
+        "title": "Akhilandeswariboggarapu (Akhilandeswari Boggarapu)",
+        "visit_count": 4,
+        "last_visited": "2026-05-30 21:10:27"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://moonjuice.com/blogs/ingredients/how-to-use-amla-powder-8-beneficial-ways?srsltid=AfmBOooB2jNfPWueGWCkNYf5yFtM6aoFLwIQwyXc1iiHLcAe8as4iD7l",
+        "title": "How to Use Amla Powder: 8 Beneficial Ways | Moon Juice",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 20:42:11"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=how+to+drink+amla+powder+for+skin+and+hair&rlz=1CDGOYI_enUS1189US1189&oq=how+to+drink+amla+powder+for+skin+and+hair&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyBwgGECEYoAEyBwgHECEYoAEyBwgIECEYoAEyBwgJECEYnwXSAQkxMTM0M2owajmoAhOwAgHiAwQYASBf8QUTWvPqSMau8w&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe",
+        "title": "how to drink amla powder for skin and hair - Google Search",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 20:41:44"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=how+to+drink+amla+powder+for+skin+and+hair&rlz=1CDGOYI_enUS1189US1189&oq=how+to+drink+amla+powder+for+skin+and+hair&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyBwgGECEYoAEyBwgHECEYoAEyBwgIECEYoAEyBwgJECEYnwXSAQkxMTM0M2owajmoAhOwAgHiAwQYASBf8QUTWvPqSMau8w&hl=en-US&sourceid=chrome-mobile&ie=UTF-8",
+        "title": "how to drink amla powder for skin and hair - Google Search",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 20:41:38"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=chatapi+and+ragi+roti&rlz=1CDGOYI_enUS1189US1189&oq=chatapi+and+ragi+rot&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIHCAMQIRiPAjIHCAQQIRiPAtIBCDkxNDJqMGo5qAITsAIB4gMEGAEgX_EFpIFG1SfwR8Y&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe",
+        "title": "chatapi and ragi roti - Google Search",
+        "visit_count": 2,
+        "last_visited": "2026-05-30 20:41:25"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=chatapi+and+ragi+roti&rlz=1CDGOYI_enUS1189US1189&oq=chatapi+and+ragi+rot&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIHCAMQIRiPAjIHCAQQIRiPAtIBCDkxNDJqMGo5qAITsAIB4gMEGAEgX_EFpIFG1SfwR8Y&hl=en-US&sourceid=chrome-mobile&ie=UTF-8",
+        "title": "chatapi and ragi roti - Google Search",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 17:33:44"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=flax+seed+and+fenugreek+hair+mask&rlz=1CDGOYI_enUS1189US1189&oq=flax+seed+and+fenugreek+hair+mask+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCQgBEAAYDRiABDIICAIQABgWGB4yCAgDEAAYFhgeMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMgkIBxAhGAoYoAEyCQgIECEYChigATIJCAkQIRgKGKAB0gEJMTE3MzVqMGo0qAITsAIB4gMEGAEgX_EFysSGZMI2T8Q&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe",
+        "title": "flax seed and fenugreek hair mask - Google Search",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 17:14:37"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.google.com/search?q=flax+seed+and+fenugreek+hair+mask&rlz=1CDGOYI_enUS1189US1189&oq=flax+seed+and+fenugreek+hair+mask+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCQgBEAAYDRiABDIICAIQABgWGB4yCAgDEAAYFhgeMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMgkIBxAhGAoYoAEyCQgIECEYChigATIJCAkQIRgKGKAB0gEJMTE3MzVqMGo0qAITsAIB4gMEGAEgX_EFysSGZMI2T8Q&hl=en-US&sourceid=chrome-mobile&ie=UTF-8",
+        "title": "flax seed and fenugreek hair mask - Google Search",
+        "visit_count": 1,
+        "last_visited": "2026-05-30 17:14:31"
+    },
+    {
+        "browser": "Chrome",
+        "url": "https://www.primevideo.com/settings/your-devices/ref=atv_set_your-devices",
+        "title": "Prime Video: Account & Settings",
+        "visit_count": 2,
+        "last_visited": "2026-05-30 17:14:18"
+    },
+    {
+        "browser": "Chrome",
         "url": "http://git-scm.com/install/windows",
         "title": "Git - Install for Windows",
         "visit_count": 1,
@@ -22,24 +155,10 @@
     },
     {
         "browser": "Chrome",
-        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace",
-        "title": "Akhilandeswariboggarapu/ShadowTrace",
-        "visit_count": 8,
-        "last_visited": "2026-05-30 16:10:47"
-    },
-    {
-        "browser": "Chrome",
         "url": "https://github.com/Akhilandeswariboggarapu?tab=repositories",
         "title": "Your Repositories",
         "visit_count": 2,
         "last_visited": "2026-05-30 16:10:36"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://github.com/Akhilandeswariboggarapu",
-        "title": "Akhilandeswariboggarapu (Akhilandeswari Boggarapu)",
-        "visit_count": 3,
-        "last_visited": "2026-05-30 16:10:29"
     },
     {
         "browser": "Chrome",
@@ -68,13 +187,6 @@
         "title": "ShadowTrace/case_data/network_logs.csv at main \u00b7 Akhilandeswariboggarapu/ShadowTrace",
         "visit_count": 1,
         "last_visited": "2026-05-30 15:56:26"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://github.com/Akhilandeswariboggarapu/ShadowTrace/tree/main/dashboard",
-        "title": "ShadowTrace/dashboard at main \u00b7 Akhilandeswariboggarapu/ShadowTrace",
-        "visit_count": 1,
-        "last_visited": "2026-05-30 15:51:36"
     },
     {
         "browser": "Chrome",
@@ -138,13 +250,6 @@
         "title": "GitHub",
         "visit_count": 6,
         "last_visited": "2026-05-30 15:38:00"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.primevideo.com/settings/your-devices/ref=atv_set_your-devices",
-        "title": "Prime Video: Account & Settings",
-        "visit_count": 1,
-        "last_visited": "2026-05-30 15:00:47"
     },
     {
         "browser": "Chrome",
@@ -243,110 +348,5 @@
         "title": "Nextdoor",
         "visit_count": 1,
         "last_visited": "2026-05-29 21:31:52"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://nextdoor.com/category_unsub/?p=97071231&c=481675139&e=469&k=71b965258af7e5d&prefs=trending_ask_local&ct=o8QeE_GiTvSGek10V4sZAOsY2l6tdX9t0qtGNmVd6rFlVj30QUnLhAEJ-Sk9T6cK&ec=a4i1aHL12d2jcIgBjQx_KyiwV97DCZkEHGfBV1lN4zY=&token=idYoVAkB_xIqp-tNVa8l1RcUFPVMCUpwsWLTe-n1RABolM-Od6EWksdv8S2RrVQFF3YsCNNdFRFafxnOCeD6pZ6kDsL6TcFJ0iTIl1hvppw%3D&auto_token=gGB8XTMjzULDJA_MDoLrCY2apdOcR4-OMENBa9JP-JHyP1WX8db6G0x2AkL1-ba7-zFbEV9wbi-9_4Oy0YgqfVwqWgHEo4CyP82y7cSCSmc%3D",
-        "title": "Nextdoor",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 21:31:48"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://nextdoor.com/notif_unsub/?p=97071231&prefs=trending_ask_local&ec=a4i1aHL12d2jcIgBjQx_KyiwV97DCZkEHGfBV1lN4zY%3D&ct=o8QeE_GiTvSGek10V4sZAOsY2l6tdX9t0qtGNmVd6rFlVj30QUnLhAEJ-Sk9T6cK&k=71b965258af7e5d&pgs=trending_ask_local",
-        "title": "Nextdoor",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 21:31:48"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.google.com/search?q=what+is+sri+chakram&rlz=1CDGOYI_enUS1189US1189&oq=what+is+sri+cha&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ1OTVqMGo0qAITsAIB4gMEGAEgX_EFUKVO8ZhDXws&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#lfId=ChxjMe",
-        "title": "what is sri chakram - Google Search",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 21:30:18"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.google.com/search?q=what+is+sri+chakram&rlz=1CDGOYI_enUS1189US1189&oq=what+is+sri+cha&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ1OTVqMGo0qAITsAIB4gMEGAEgX_EFUKVO8ZhDXws&hl=en-US&sourceid=chrome-mobile&ie=UTF-8",
-        "title": "what is sri chakram - Google Search",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 21:30:14"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://my.uscis.gov/timeout",
-        "title": "https://my.uscis.gov",
-        "visit_count": 5,
-        "last_visited": "2026-05-29 21:30:08"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://my.uscis.gov/",
-        "title": "https://my.uscis.gov",
-        "visit_count": 13,
-        "last_visited": "2026-05-29 21:30:08"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/feed",
-        "title": "Feed | LinkedIn",
-        "visit_count": 8,
-        "last_visited": "2026-05-29 20:22:58"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/showcase/life-at-fcode-labs/",
-        "title": "Life at Fcode Labs: Overview | LinkedIn",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 20:22:48"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/feed/",
-        "title": "(1) Notifications | LinkedIn",
-        "visit_count": 17,
-        "last_visited": "2026-05-29 20:22:37"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/mynetwork/invite-connect/connections/",
-        "title": "Connections | LinkedIn",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 20:22:28"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/mynetwork/invite-connect/connections",
-        "title": "Feed | LinkedIn",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 20:22:27"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/mynetwork/grow/",
-        "title": "Grow | LinkedIn",
-        "visit_count": 9,
-        "last_visited": "2026-05-29 20:22:12"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/mynetwork",
-        "title": "Feed | LinkedIn",
-        "visit_count": 7,
-        "last_visited": "2026-05-29 20:22:11"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://www.linkedin.com/notifications/?filter=all",
-        "title": "(1) Notifications | LinkedIn",
-        "visit_count": 8,
-        "last_visited": "2026-05-29 20:22:07"
-    },
-    {
-        "browser": "Chrome",
-        "url": "https://paycomonline.net/v4/ats/web.php/portal/1C1875CBF90AD0C6A2E08F2A4B01A84C/candidate-home#!my-applications",
-        "title": "Candidate Portal Home",
-        "visit_count": 1,
-        "last_visited": "2026-05-29 20:16:37"
     }
 ]

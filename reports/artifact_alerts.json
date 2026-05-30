@@ -1,17 +1,5 @@
 [
     {
-        "type": "Suspicious Browser History",
-        "detail": "Visited: https://github.com/Akhilandeswariboggarapu?tab=repositories",
-        "severity": "HIGH",
-        "timestamp": "2026-05-30 16:10:36"
-    },
-    {
-        "type": "Suspicious Browser History",
-        "detail": "Visited: https://www.primevideo.com/gp/video/storefront",
-        "severity": "HIGH",
-        "timestamp": "2026-05-30 15:00:27"
-    },
-    {
         "type": "Recovered Suspicious URL",
         "detail": "Visited 5x: https://www.torproject.org/download",
         "severity": "HIGH",
